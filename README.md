@@ -6,7 +6,7 @@ This is the *readme* for our group _test project_.  It will accomplish the follo
   * Doing things
   * Uploading stuff
 
-...and __much more__
+...and **much more**.
 
 Here's a [link to something](http://www.google.com/).
 
