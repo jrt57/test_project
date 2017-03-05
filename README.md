@@ -1,12 +1,12 @@
 Project Name Header
 ===================
 
-This is our group test project.  It will accomplish the following things:
+This is the *readme* for our group _test project_.  It will accomplish the following things:
 
   * Doing things
   * Uploading stuff
 
-...and more
+...and __much more__
 
 Here's a [link to something](http://www.google.com/).
 
